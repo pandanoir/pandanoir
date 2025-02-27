@@ -11,4 +11,4 @@
 ## PGP Key
 307B E088 C56B 9F0D (or get key on [keys.openpgp.org](https://keys.openpgp.org/search?q=307BE088C56B9F0D))
 
-![](./pgp-key-qr.png)
+<img src="./pgp-key-qr.png" width="128">

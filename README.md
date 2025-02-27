@@ -9,5 +9,6 @@
 [![職務経歴書](https://img.shields.io/badge/resume-%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-blue)](https://resume.pandanoir.net)
 
 ## PGP Key
-16AC AADE (or get key on keys.openpgp.org)
+307B E088 C56B 9F0D (or get key on [keys.openpgp.org](https://keys.openpgp.org/search?q=307BE088C56B9F0D))
+
 ![](./pgp-key-qr.png)

@@ -1,13 +1,4 @@
-# About me
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandanoir&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=pandanoir&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
-
-[![Likes](https://badgen.org/img/zenn/pandanoir/likes?style=flat)](https://zenn.dev/pandanoir)
-[![Rating](https://badgen.org/img/atcoder/pandanoir/rating/algorithm?style=flat)](https://atcoder.jp/users/pandanoir?contestType=algo)
-
-## Socials
+# Socials
 
 [![twitter](https://shields.io/badge/x-pandanoir-9cf?logo=x)](https://twitter.com/le_panda_noir)
 [![zenn](https://shields.io/badge/zenn-pandanoir-blue?logo=zenn)](https://zenn.dev/pandanoir)
@@ -15,7 +6,11 @@
 [![wantedly](https://shields.io/badge/wantedly-naoto_ikuno-9cf?logo=wantedly)](https://www.wantedly.com/id/naoto_ikuno)
 [![職務経歴書](https://img.shields.io/badge/resume-%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-blue)](https://resume.pandanoir.net)
 
-## PGP Key
+[![Likes](https://badgen.org/img/zenn/pandanoir/likes?style=flat)](https://zenn.dev/pandanoir)
+[![Rating](https://badgen.org/img/atcoder/pandanoir/rating/algorithm?style=flat)](https://atcoder.jp/users/pandanoir?contestType=algo)
+
+
+# PGP Key
 307B E088 C56B 9F0D (or get key on [keys.openpgp.org](https://keys.openpgp.org/search?q=307BE088C56B9F0D))
 
 <img src="./pgp-key-qr.png" width="128">

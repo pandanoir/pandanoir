@@ -9,8 +9,14 @@
 [![Likes](https://badgen.org/img/zenn/pandanoir/likes?style=flat)](https://zenn.dev/pandanoir)
 [![Rating](https://badgen.org/img/atcoder/pandanoir/rating/algorithm?style=flat)](https://atcoder.jp/users/pandanoir?contestType=algo)
 
-
 # PGP Key
+
 307B E088 C56B 9F0D (or get key on [keys.openpgp.org](https://keys.openpgp.org/search?q=307BE088C56B9F0D))
 
 <img src="./pgp-key-qr.png" width="128">
+
+verify:
+
+```sh
+curl -s https://raw.githubusercontent.com/pandanoir/pandanoir/main/signed-message.txt | gpg --verify
+```

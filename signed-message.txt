@@ -1,11 +1,16 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-This is Naoto Ikuno. fingerprint of PGP key is 307BE088C56B9F0D
+This is Naoto Ikuno (pandanoir).
+I control the GPG key used for this identity.
+Date: 2026-05-02
+GitHub: https://github.com/pandanoir
+PGP fingerprint: 307BE088C56B9F0D
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQEYzqFjz831UnPMO4we+CIxWufDQUCaBNFGgAKCRAwe+CIxWuf
-DbyGAP9jDEdf1dzDuccuLZFh9SGu6mIXcY68VNMOweNBBKpi6gD+JM72l+1iL9dh
-ndzLEGvu1m3WzHMa4a4jGz2QW3o65Qo=
-=zqP+
+iJEEARYKADkWIQQEYzqFjz831UnPMO4we+CIxWufDQUCafXHThsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQMHvgiMVrnw24IQEAhgTt2mfJL8qJCVBKIDw7
+3bHljkvFPzW02JVDIUL8/HIBAJjMq1MbOIvALIlir2Hh0aOACAtDatBRA+aYr+Uz
+qesO
+=tjkQ
 -----END PGP SIGNATURE-----

@@ -15,7 +15,8 @@
 
 <img src="./pgp-key-qr.png" width="128">
 
-verify:
+Verify the GPG key using
+[signed-message.txt](https://raw.githubusercontent.com/pandanoir/pandanoir/main/signed-message.txt)
 
 ```sh
 curl -s https://raw.githubusercontent.com/pandanoir/pandanoir/main/signed-message.txt | gpg --verify

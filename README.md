@@ -19,5 +19,5 @@ Use [signed-message.txt](https://www.pandanoir.net/signed-message.txt) to verify
 ownership of this GPG key
 
 ```sh
-curl -s https://www.pandanoir.net/signed-message.txt | gpg --verify
+curl -sL https://www.pandanoir.net/signed-message.txt | gpg --output - --verify
 ```
